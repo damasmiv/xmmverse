@@ -142,8 +142,8 @@ body {
   display: inline-block;
   padding: 1rem 3rem;
   font-size: 1.4rem;
-  color: black;
-  background-color: #e6d5b8;
+  color: #FFD758;
+  background-color: #218DAE;
   border-radius: 0.5rem;
   box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
@@ -281,7 +281,7 @@ body {
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #343131;
   opacity: 0.75%;
   transition: opacity ease 250ms;
 }
@@ -298,7 +298,7 @@ footer .social {
 }
 
 footer .social a {
-  color: #fff;
+  color: #1d1d1d;
   margin: 1rem;
 }
 
@@ -309,7 +309,7 @@ footer .links {
   margin-bottom: 1.4rem;
 }
 footer .links a {
-  color: #fff;
+  color: #1f1f1f;
   margin-bottom: 1.4;
   padding: 0.7rem 1rem;
 }
